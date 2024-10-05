@@ -9,3 +9,4 @@ git status
 git commit
 git push 
 del .git\index.lock
+git commit -m "Notes"
